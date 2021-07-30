@@ -1,5 +1,10 @@
-    Run the test
-    finished by Jiuhong Du a1762017
+//if you want to use them please tell me via email: 2261928980@qq.com
+
+//Do not use them for your assignment/exam/practial/homework
+
+//Run the test
+
+//finished by Jiuhong Du
 
 ## compile：
 
